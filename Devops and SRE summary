@@ -1,0 +1,54 @@
+Devops:
+combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: 
+evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
+development and operations teams are no longer “siloed.” 
+Sometimes, these two teams are merged into a single team where the engineers work across the entire application lifecycle, 
+from development and test to deployment to operations, and develop a range of skills not limited to a single function.
+
+These teams use practices to automate processes that historically have been manual and slow. 
+They use a technology stack and tooling which help them operate and evolve applications quickly and reliably. 
+These tools also help engineers independently accomplish tasks (for example, deploying code or provisioning infrastructure) 
+that normally would have required help from other teams, and this further increases a team’s velocity.
+
+
+SRE (Site Reliability Engineering):
+the practice of applying software engineering principles to operations and infrastructure processes to help organizations create 
+highly reliable and scalable software systems. 
+As a discipline, SRE focuses on improving software system reliability across key categories including availability, performance, latency, 
+efficiency, capacity, and incident response. 
+Those who perform the tasks involved are known as site reliability engineers.
+
+SRE focuses on automation -- reduce duplication or redundancy of effort as much as possible. 
+SRE teams focus on automating manual tasks, such as provisioning access and infrastructure, setting up accounts, and building self-service tools. 
+That enables development teams to focus on delivering features, and operations teams can focus on managing infrastructure.;
+
+SRE bridges the gap between Dev and Ops;
+
+SRE drives a “shift-left” mindset -- SRE is a constantly evolving discipline, presenting opportunities to build methods, policies, and 
+processes into the delivery pipeline that allow applications to “auto-remediate” or users to solve their own problems. 
+A shift-left mindset means SREs can embed reliability principles from Dev to Ops, 
+baking reliability and resiliency into each process, app, and code change to improve the quality of software that goes to production.;
+
+SRE builds services and tools to help operations and support;
+
+SRE requires a cultural change
+
+
+waterfall vs agile methodology:
+agile - your project will move through a series of cycles throughout the lifetime of the project. 
+The development phase, review, feedback, and then approval of the work item – either yes or no. If yes, implement and complete the task. 
+If no, record and make any necessary changes, track and adjust the backlog or prioritization to reflect the newly acquired knowledge, 
+and then move onto the next task or sprint.
+
+agile emphasizes the rapid delivery of an application in complete functional components. 
+Rather than creating tasks and schedules, all time is “time-boxed” into phases called “sprints.” 
+Each sprint has a defined duration (usually in weeks) with a running list of deliverables, planned at the start of the sprint. 
+Deliverables are prioritized by business value as determined by the customer. 
+If all planned work for the sprint cannot be completed, work is reprioritized and the information is used for future sprint planning.
+As work is completed, it can be reviewed and evaluated by the project team and customer, through daily builds and end-of-sprint demos. 
+Agile relies on a very high level of customer involvement throughout the project, but especially during these reviews.
+
+
+waterfall - a simpler process of moving tasks through the phases of defining requirements, designing the implementation, implementing the work item, 
+verification of implementation and quality assurance, and then maintenance of the feature in the end. (no going back to the previous phase(s). If it is done, it is done)
