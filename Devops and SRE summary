@@ -23,8 +23,6 @@ SRE focuses on automation -- reduce duplication or redundancy of effort as much 
 SRE teams focus on automating manual tasks, such as provisioning access and infrastructure, setting up accounts, and building self-service tools. 
 That enables development teams to focus on delivering features, and operations teams can focus on managing infrastructure.;
 
-SRE bridges the gap between Dev and Ops;
-
 SRE drives a “shift-left” mindset -- SRE is a constantly evolving discipline, presenting opportunities to build methods, policies, and 
 processes into the delivery pipeline that allow applications to “auto-remediate” or users to solve their own problems. 
 A shift-left mindset means SREs can embed reliability principles from Dev to Ops, 
